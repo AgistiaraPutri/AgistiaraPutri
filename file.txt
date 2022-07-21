@@ -1,0 +1,6 @@
+2022-07-15|agistiara|putri|jalan pepaya|6|barang|30000
+2022-07-15|agistiara|putri|jalan pepaya||6|barang|30000
+2022-07-15|agistiara|putri|jalan pepaya||6|barang|30000
+2022-07-15|agistiara|putri|jalan pepaya||7|baju|35000
+2022-07-16|Agistiara Putri|Azkia Karinda|Jl. Pepaya, RT.03, Rejo Basuki||5|Baju Gamis Muslimah, dan Jilbab Bella Square|25000
+2022-07-17|Agistiara Putri|Vico Arwanto|Rejo Basuki, RT.03, Jl. Pepaya, Kutai Barat, Kaltim, 75576||8|sweater crewneck|40000

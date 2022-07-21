@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<head>
+	<title>Agistiara Putri</title>
+	<link rel="stylesheet" type="text/css" href="input.css">
+</head>
+<body>
+	<script type="text/javascript">
+		<!--
+		var jawab = window.confirm("Apakah anda ingin meneruskan?");
+		document.write("Jawaban Anda: "+jawab);
+		//-->
+	</script>
+
+	<div class="">
+		<div class="isi">
+			<h1>Jasa Pengiriman GISCO</h1>
+			<h2>Masukkan Pengiriman </h2>
+			<form action="proses.php" method="POST" id="nama">
+				<table>
+					<tr>
+						<td>Nama Pengirim</td>
+						<td>:</td>
+						<td><input type="text" name="nama_pengirim"></td>
+					</tr>
+					<tr>
+						<td>Nama Penerima</td>
+						<td>:</td>
+						<td><input type="text" name="nama_penerima"></td>
+					</tr>
+					<tr>
+						<td>Alamat</td>
+						<td>:</td>
+						<td><textarea name="alamat"></textarea></td>
+					</tr>
+					<tr>
+						<td>No Telepon</td>
+						<td>:</td>
+						<td><input type="text" name="no_telepon"></td>
+					</tr>
+					<tr>
+						<td>Jarak (KM)</td>
+						<td>:</td>
+							<td><input type="text" name="jarak"></td>
+					</tr>
+					<tr>
+						<td>Keterangan</td>
+						<td>:</td>
+						<td><textarea name="keterangan"></textarea></td>
+					</tr>
+					<tr>
+						<td></td>
+						<td></td>
+						<td>
+							<button type="submit" name="kirim">Kirim</button>
+							<button type="reset" name="reset">Reset</button>
+						</td>
+					</tr>
+				</table>
+			</form>
+		</div>
+	</div>
+</body>
+</html>

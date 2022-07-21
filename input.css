@@ -1,0 +1,37 @@
+body {
+	background: linear-gradient(to right, #A9A9A9, #FFF5EE);
+}
+.warp {
+	width: 40%;
+	margin: auto;
+	border-radius: 10px;
+	font-family: Arial;
+	background: #B22222;
+}
+.isi {
+	padding: 5px;
+	margin: 10%;
+	color: #B22222;
+}
+h1 {
+	text-align: center;
+	color: #B22222;
+}
+h2 {
+	text-align: center;
+	color: #B22222;
+}
+table {
+	margin: auto;
+	padding-bottom: 5px;
+}
+table td {
+	padding: 5px;
+}
+button {
+	width: 50px;
+	font-family: Arial;
+	height: 30px;
+	background-color: #B22222;
+	border-radius: 7px;
+}
